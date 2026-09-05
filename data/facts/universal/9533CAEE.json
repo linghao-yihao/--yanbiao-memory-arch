@@ -1,0 +1,16 @@
+{
+  "id": "9533CAEE",
+  "statement": "水在标准大气压下100°C沸腾",
+  "category": "objective",
+  "scope": "universal",
+  "verified": false,
+  "sources": [
+    "种子数据-初始加载"
+  ],
+  "user_id": null,
+  "citation": "[FACT-9533CAEE_universal]",
+  "tags": [
+    "物理",
+    "客观事实"
+  ]
+}

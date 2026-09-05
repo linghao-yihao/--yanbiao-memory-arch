@@ -1,0 +1,12 @@
+{
+  "id": "9A5CD0E3",
+  "user_id": "default",
+  "statement": "男性都喜欢运动",
+  "weight": 0.6,
+  "category": "preference",
+  "verified": true,
+  "scope": "session",
+  "source": "用户自述",
+  "created_at": 1788625171.803436,
+  "tags": []
+}
